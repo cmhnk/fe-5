@@ -1,0 +1,21 @@
+{
+  "name": "local-storage",
+  "version": "1.0.0",
+  "description": "use local storage + webpack",
+  "main": "app.bundle.js",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
